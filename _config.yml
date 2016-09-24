@@ -3,8 +3,6 @@ title:              oerpli | A. Hinteregger
 bio:                'This line intentionally left blank'
 description:        "Physics and Computer Science student in Vienna/Austria"
 
-# url:				https://oerpli.github.io/
-
 
 reading_time:       true
 words_per_minute:   200
@@ -72,8 +70,7 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
 
-jekyll-mentions:
-    base_url: https://oerpli.github.io
+jekyll-mentions: https://twitter.com
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
