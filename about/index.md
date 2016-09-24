@@ -19,7 +19,8 @@ Since 2014 I'm studying for my two master degrees:
 *   **Physics** (University of Vienna)
 *   **Computational Intelligence** (Vienna University of Technology)
 
-Most of my exercises are available [here](https://github.com/oerpli/exerCIses/) ([^1]).
+Most of my exercises are available [here](https://github.com/oerpli/exerCIses/) [^1].
+
 [^1]: Currently changed to private per request of a professor (similar exercises in winter term 2014 and 2015).
 
 
@@ -29,7 +30,8 @@ The topics are not decided yet but I'm leaning towards something economy related
 ### Undergraduate stuff
 
 *   Physics (BSc): 2010 - 2014
-*   Software & Information Engineering ([^2]): 2012 - 2014
+*   Software & Information Engineering[^2]: 2012 - 2014
+
 [^2]: Finished approx. 110ECTS - I then got the chance to switch to the Computational Intelligence master's studies which i did gladly.
 
 In Physics I chose "Computational Physics", "Bio Physics" and "Theoretical Physics III: Electrodynamics" as elective courses.
