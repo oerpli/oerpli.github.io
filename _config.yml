@@ -1,29 +1,74 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Site
+title:              oerpli | A. Hinteregger
+bio:                'Personal blog of A. Hinteregger'
+description:        "Physics and Computer Science student in Vienna/Austria"
+reading_time:       true
+words_per_minute:   200
+logo:               'assets/img/logo.png'
+background:         'assets/img/back.jpg'
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+locale:             en_US
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
-twitter_username: oerpli
-github_username:  oerpli
+# Jekyll
+permalink:          /:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
 
-# Build settings
-markdown: kramdown
-theme: minima
+# Comments
+disqus_shortname:   oerpli-github-io
+
+# Social
+# if you don't have any of social below, comment the line.
+#google:
+  #plus:            #username
+  #analytics:
+  #verify:
+  #ad-client:
+  #ad-slot:
+#bing-verify:
+github:             oerpli
+stackoverflow:      2198481/oerpli 
+email:				oerpli@hotmail.com
+#twitter:           oerpli
+#facebook:           oerpli
+#soundcloud:         oerpli
+#linkedin:           oerpli
+lastfm:             oerpli
+steam:              oerpli
+#xing:              username
+#instagram:         oerpli
+#tumblr:            oerpli
+#pinterest:         oerpli
+#foursquare:        oerpli
+#dribbble:          oerpli
+#youtube:           oerpli
+#weibo:             oerpli
+#flickr:            oerpli
+#codepen:           oerpli 
+#keybase:           oerpli
+#xmpp:              username@server.com
+#hackernews:        oerpli
+gist:
+  noscript: false
+# Gems
+gems:
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+
+jekyll-mentions:
+    base_url: https://github.com
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
