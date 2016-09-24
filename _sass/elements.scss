@@ -9,11 +9,11 @@
 	color: $color_shark;
 	&:hover {
 		box-shadow: 0 0 1px 0 rgba($color_shark,0.5);
-		color: $red;
+		color: $blue;
 	}
 }
 .social-btn {
-	padding: 5px;
+	padding: 0px;
 	margin: 10px;
 	@extend %btnextend;
 }
@@ -118,7 +118,7 @@ img {
     image-rendering: optimizeQuality;
 }
 .img-circle {
-	border-radius: 50%;
+	border-radius: 30%;
 	border: 3px solid $white;
 	height: 150px;
 	width: 150px;

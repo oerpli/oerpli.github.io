@@ -4,6 +4,7 @@ title: About
 tags: [about]
 date: 2016-09-26
 comments: false
+feature: img/me.jpg
 ---
 This is the blog of Abraham Hinteregger, a physics & computer science student living in Vienna, Austria.
 You can contact me via [mail](mailto:oerpli@outlook.com) or on [facebook](http://fb.com/oerpli).
@@ -38,7 +39,7 @@ In Physics I chose "Computational Physics", "Bio Physics" and "Theoretical Physi
 
 I wrote my bachelor's thesis in the laboratory "Scientific Computing" under the supervision of Sabine Andergassen - the topic was "Sampling the Ising Model" and was about different approaches to sample the Ising Model using single spin and cluster flip algorithms.
 
-I later rewrote the simulation from my bachelor's thesis in C# with a better GUI for the [Campus Festival 2015](https://www.univie.ac.at/650/aktuelles-ueberblick/campus-festival-2015/) (650 year anniversary festival of the University of Vienna) where it was showcased as interactive nucleation simulation. The source code and binaries are available [here](https://github.com/oerpli/Ising/releases)
+I later rewrote the simulation from my bachelor's thesis in C# with a better GUI for the [Campus Festival 2015](https://www.univie.ac.at/650/aktuelles-ueberblick/campus-festival-2015/) (650 year anniversary festival of the University of Vienna) where it was showcased as interactive nucleation simulation (pictured below). The source code and binaries are available [here](https://github.com/oerpli/Ising/releases)
 
 {% capture images %}
     http://i.imgur.com/kNhhD9g.png
