@@ -11,14 +11,15 @@
 		box-shadow: 0 0 1px 0 rgba($color_shark,0.5);
 		color: $blue;
 	}
+	&:hover svg g {
+		stroke: $blue;
+		stroke-width: 2.0;
+	}
 }
 .icon-lichess svg g {
 	transition: .5s;
 }
-.icon-lichess svg g:hover{
-	stroke: $blue;
-	stroke-width: 2.0;
-}
+
 .social-btn {
 	padding: 0px;
 	margin: 10px;
