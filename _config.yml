@@ -71,6 +71,8 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-smartify
+  - jekyll-toc
+  - jekyll-email-protect
 jekyll-mentions: https://twitter.com
 
 # Exclude list
