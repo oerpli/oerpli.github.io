@@ -8,13 +8,13 @@ reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/back.jpg'
-url:				https://oerpli.github.io
+# url:				https://oerpli.github.io
 
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 
 # Jekyll
-permalink:          /:title/
+permalink:          post/:categories/:year/:month/:slug/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
@@ -70,8 +70,8 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
-
+  - jekyll-smartify
 jekyll-mentions: https://twitter.com
 
 # Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+exclude: [README.md,_posts/tutorials, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
