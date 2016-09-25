@@ -1,32 +1,32 @@
 # Site
-title:              oerpli | A. Hinteregger
-bio:                'This line intentionally left blank'
-description:        "Physics and Computer Science student in Vienna/Austria"
+title:				oerpli | A. Hinteregger
+bio:				'This line intentionally left blank'
+description:		"Physics and Computer Science student in Vienna/Austria"
 
 
-reading_time:       true
+reading_time:		true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/back.jpg'
+logo:				'assets/img/logo.png'
+background:			'assets/img/back.jpg'
 url:				https://oerpli.github.io
 
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
+tiled_bg:			false   # Set this true if you want to tile your background image, otherwise it will be covered
+locale:				en_US
 
 # Jekyll
-permalink:          post/:categories/:year/:month/:slug/
-markdown:           kramdown
-highlighter:        rouge
+permalink:			post/:categories/:year/:month/:slug/
+markdown:			kramdown
+highlighter:		rouge
 kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
+  auto_ids:			true
+  footnote_nr:		1
+  entity_output:	as_char
+  toc_levels:		1..6
+  enable_coderay:	false
+mathjax:			true
 sass:
-  sass_dir:         _sass
-  style:            compressed
+  sass_dir:			_sass
+  style:			compressed
 
 # Comments
 disqus_shortname:   oerpli-github-io
@@ -34,34 +34,35 @@ disqus_shortname:   oerpli-github-io
 # Social
 # if you don't have any of social below, comment the line.
 #google:
-  #plus:            #username
+  #plus:			#username
   #analytics:
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-github:             oerpli
-stackoverflow:      2198481/oerpli 
-email:				oerpli@hotmail.com
-twitter:           oerpli
-facebook:           oerpli
-#soundcloud:         oerpli
-#linkedin:           oerpli
-lastfm:             oerpli
-steam:              oerpli
-#xing:              username
-#instagram:         oerpli
-#tumblr:            oerpli
-#pinterest:         oerpli
-#foursquare:        oerpli
-#dribbble:          oerpli
-#youtube:           oerpli
-#weibo:             oerpli
-#flickr:            oerpli
-#codepen:           oerpli 
-#keybase:           oerpli
-#xmpp:              username@server.com
-#hackernews:        oerpli
+github:			oerpli
+stackoverflow:	2198481/oerpli 
+email:			oerpli@hotmail.com
+twitter:		oerpli
+facebook:		oerpli
+#soundcloud:	oerpli
+#linkedin:		oerpli
+lastfm:			oerpli
+steam:			oerpli
+lichess:		oerpli
+#xing:			username
+#instagram:		oerpli
+#tumblr:		oerpli
+#pinterest:		oerpli
+#foursquare:	oerpli
+#dribbble:		oerpli
+#youtube:		oerpli
+#weibo:			oerpli
+#flickr:		oerpli
+#codepen:		oerpli 
+#keybase:		oerpli
+#xmpp:			username@server.com
+#hackernews:	oerpli
 gist:
   noscript: false
 # Gems
