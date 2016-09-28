@@ -1,6 +1,6 @@
 # My blog/website/whatever
 
-I'm using the Moon Jekyll theme from @taylantatli with a few modifications. Feel free to fork this repo if you like my modifications.
+I'm using the Moon Jekyll theme from @TaylanTatli with a few modifications. Feel free to fork this repo if you like my modifications.
 
 ## Modifications
 
