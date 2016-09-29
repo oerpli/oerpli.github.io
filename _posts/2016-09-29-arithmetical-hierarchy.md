@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Arithmetical Hierarchy"
+date:   2016-09-29
+excerpt: "TikZ figure Arithmetical Hierarchy"
+tag:
+- TikZ
+- LaTeX
+- ComputabilityTheory
+---
+
+# Arithmetical Hierarchy
+Use the latex source referenced below. Or use the compiled [png](/img/arithm.png)/[pdf](/img/arithm.pdf).
+
+## Preview
+{% capture images %}
+	/img/arithm.png
+{% endcapture %}
+{% include gallery images=images caption="Compiled picture" cols=1 %}
+
+## Source
+{% gist 05272732b5ea1423017707d771113381 %}
+
