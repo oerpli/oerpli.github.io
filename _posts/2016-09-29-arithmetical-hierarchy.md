@@ -10,11 +10,11 @@ tag:
 ---
 
 # Arithmetical Hierarchy
-Use the latex source referenced below. Or use the compiled [png](/img/arithm.png)/[pdf](/img/arithm.pdf).
+Use the latex source referenced below. Or use the compiled [png](/img/arithm.PNG)/[pdf](/img/Arithm.pdf).
 
 ## Preview
 {% capture images %}
-	/img/arithm.png
+	/img/arithm.PNG
 {% endcapture %}
 {% include gallery images=images caption="Compiled picture" cols=1 %}
 
