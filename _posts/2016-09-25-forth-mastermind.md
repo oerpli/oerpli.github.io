@@ -6,7 +6,7 @@ excerpt: "Usage of the Forth implementation of mastermind"
 project: true
 tag:
 - Forth 
-- ObscureLanguage
+- Obscure
 comments: off
 feature: img/fMM.jpg
 ---

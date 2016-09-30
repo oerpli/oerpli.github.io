@@ -6,7 +6,7 @@ excerpt: "TikZ figure Arithmetical Hierarchy"
 tag:
 - TikZ
 - LaTeX
-- ComputabilityTheory
+- Computability Theory
 ---
 
 # Arithmetical Hierarchy
