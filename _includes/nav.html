@@ -94,20 +94,35 @@
                     </li>{% endif %}
 				</ul><!-- /.dl-submenu -->
 			</li>
-			<li>
+<!-- 			<li>
 				<a href="#">Posts</a>
 				<ul class="dl-submenu">
 					<li><a href="{{ site.url }}/posts/">All Posts</a></li>
 					<li><a href="{{ site.url }}/tags/">All Tags</a></li>
 				</ul>
-			</li>
+			</li> -->
 			{% for link in site.data.navigation %}
-		    {% if link.url contains 'http' %}
-		        {% assign domain = '' %}
-		        {% else %}
-		        {% assign domain = site.url %}
-		    {% endif %}
-		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a></li>
+				{% if link.sub != null %}
+					<li><a href="{{ link.href }}" class="page-link">{{ link.title }}</a>
+					<ul class="dl-submenu">
+					{% for lsub in link.sub %}
+						{% if link.url contains 'http' %}
+							{% assign domain = '' %}
+						{% else %}
+							{% assign domain = site.url %}
+						{% endif %}
+						<li><a href="{{ domain }}{{ lsub.url }}" {% if lsub.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ lsub.title }}</a></li>
+					{% endfor %}
+					</ul>
+				{% else %}
+					{% if link.url contains 'http' %}
+						{% assign domain = '' %}
+						{% else %}
+						{% assign domain = site.url %}
+					{% endif %}
+					<li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a></li>
+				{% endif %}
+			</li>
 		  {% endfor %}
 		</ul><!-- /.dl-menu -->
 	</nav><!-- /.dl-menuwrapper -->
