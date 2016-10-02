@@ -9,6 +9,8 @@ I'm using the Moon Jekyll theme from @TaylanTatli with a few modifications. Feel
 * Home thingy is a little bit bigger
 * Added the possibility to add your [lichess](http://lichess.org/) account in the style of the other social buttons
 * Changed the logos of the social button to something a little more lightweight
+* Added menus with subcategories (only up to depth one)
+* Changed the posts/all posts/all tags navigation point to use the newly implemented dynamic system instead of hardcoding the levels
 
 ### Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)
 
