@@ -8,3 +8,5 @@ gem 'jekyll-feed'
 gem 'jekyll-smartify'
 gem 'jekyll-toc'
 gem 'jekyll-email-protect'
+gem 'jemoji'
+gem 'jekyll-compose', group: [:jekyll_plugins]

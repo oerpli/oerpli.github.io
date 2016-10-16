@@ -69,6 +69,8 @@ gist:
   noscript: false
 # Gems
 gems:
+  - jemoji
+  - jekyll-compose
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
