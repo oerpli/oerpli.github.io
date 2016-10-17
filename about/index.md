@@ -10,7 +10,7 @@ This is the blog of Abraham Hinteregger, a physics & computer science student li
 You can contact me via [mail](mailto:oerpli@outlook.com) or on [facebook](http://fb.com/oerpli).
 
 
-This site <del>is currently under construction</del> will (maybe) be constructed one day.
+This site is a work in progress and may not be completely up to date.
 
 
 ## Education
@@ -18,15 +18,36 @@ This site <del>is currently under construction</del> will (maybe) be constructed
 Since 2014 I'm studying for my two master degrees:
 
 *   **Physics** (University of Vienna)
+    * Computational Physics
+	* Complex Systems
+	* Electronics
+	* Quantom Optics
+	* Stochastic Processes
 *   **Computational Intelligence** (Vienna University of Technology)
+	* Algorithms
+		* Algorithmic Game Theory
+		* Algorithmic geometry
+		* Linear/Integer programming
+		* Graph based problems (shortest path algorithms, flows, ...)
+	* Heuristic Optimization
+		* Local search, genetic algorithms, Ant colony optimization, tabu search, VNS/VDS/VLNS
+	* Theoretical CS
+		* Proof theory
+		* Computability theory
+		* Complexity theory & analysis
+		* Nonclassical logics (temporal, dynamic epistemic, ...)
+	* Machine Learning
+		* Deep Learning (using keras)
+		* SOMs
+		* Classification & Discriminant Analysis (similar to [ElemStatLearn](http://statweb.stanford.edu/~tibs/ElemStatLearn/)) 
 
+{% comment %}
 Most of my exercises are available [here](https://github.com/oerpli/exerCIses/) [^1].
 
 [^1]: Currently changed to private per request of a professor (similar exercises in winter term 2014 and 2015).
+{% endcomment %}
 
-
-I plan to finish my regular courses in both studies in the winter term <del>2015</del> 2016 and write my thesis for Physics in early 2016 and my thesis in Computational Intelligence in <del>autumn 2016</del> spring 2017. 
-The topics are not decided yet but I'm leaning towards something economy related in Physics. My other thesis will most likely be related to something from the Algorithms and Complexity or from the Logic & Computability module.
+I plan to finish my regular courses in both studies in the winter term 2016 and write my thesis for Physics in 2016 and my thesis in Computational Intelligence in spring/early summer of 2017. 
 
 ### Undergraduate stuff
 
