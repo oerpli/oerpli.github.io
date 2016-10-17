@@ -17,30 +17,31 @@ This site is a work in progress and may not be completely up to date.
  
 Since 2014 I'm studying for my two master degrees:
 
-*   **Physics** (University of Vienna)
-    * Computational Physics
-	* Complex Systems
-	* Electronics
-	* Quantom Optics
-	* Stochastic Processes
-*   **Computational Intelligence** (Vienna University of Technology)
-	* Algorithms
-		* Algorithmic Game Theory
-		* Algorithmic geometry
-		* Linear/Integer programming
-		* Graph based problems (shortest path algorithms, flows, ...)
-	* Heuristic Optimization
-		* Local search, genetic algorithms, Ant colony optimization, tabu search, VNS/VDS/VLNS
-	* Theoretical CS
-		* Proof theory
-		* Computability theory
-		* Complexity theory & analysis
-		* Nonclassical logics (temporal, dynamic epistemic, ...)
-	* Machine Learning
-		* Deep Learning (using keras)
-		* SOMs
-		* Classification & Discriminant Analysis (similar to [ElemStatLearn](http://statweb.stanford.edu/~tibs/ElemStatLearn/)) 
+###  **Computational Intelligence** (Vienna University of Technology)
+* Algorithms
+	* Algorithmic Game Theory
+	* Algorithmic geometry
+	* Linear/Integer programming
+	* Graph based problems (shortest path algorithms, flows, ...)
+* Heuristic Optimization
+	* Local search, genetic algorithms, Ant colony optimization, tabu search, VNS/VDS/VLNS
+* Theoretical CS
+	* Proof theory
+	* Computability theory
+	* Complexity theory & analysis
+	* Nonclassical logics (temporal, dynamic epistemic, ...)
+* Machine Learning
+	* Deep Learning (using keras)
+	* SOMs
+	* Classification & Discriminant Analysis (similar to [ElemStatLearn](http://statweb.stanford.edu/~tibs/ElemStatLearn/)) 
 
+###   **Physics** (University of Vienna)
+* Computational Physics
+* Complex Systems
+* Electronics
+* Quantom Optics
+* Stochastic Processes
+	
 {% comment %}
 Most of my exercises are available [here](https://github.com/oerpli/exerCIses/) [^1].
 
