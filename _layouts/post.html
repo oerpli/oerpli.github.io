@@ -32,6 +32,11 @@ layout: compress
                         <i class="fa fa-chevron-left"></i>
                     </a>
                 </div>
+				{% for game in page.games %} 
+					<iframe width=600 height=397 frameborder=0
+					src="https://lichess.org/embed/{{ game }}?theme=auto&bg=auto"></iframe>
+				{% endfor %}
+			
 				{{ content | toc }}
                 <div class="entry-meta">
                 {% include meta.html %}
