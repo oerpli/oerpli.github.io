@@ -12,10 +12,25 @@ You can contact me via [mail](mailto:oerpli@outlook.com) or on [facebook](http:/
 
 I use this site to (rarely) post about things I do. 
 
+# Things I do
+
+I enjoy (in no particular order):
+
+* Some "sports" ([Chess](http://de.lichess.org/@/oerpli), [Cycling](https://www.strava.com/athletes/12093854), [Sailing]({% post_url 2017-04-19-fb2-yachting-licence %}), Skiing)
+* Dark Souls
+* C#, Haskell
+* A few shows
+	* Fargo
+	* Curb Your Enthusiasm
+	* It's Always Sunny in Philadelphia
+* Bullet Lists
+* Camembert
+
+Apart from that I'm mainly studying.
 
 ## Education
  
-Since 2014 I'm studying for my two master degrees:
+Since 2014 I've been studying for my two master degrees:
 
 * **Computational Intelligence** (Vienna University of Technology)
 	* Algorithm applied to all kinds of stuff (geometry, game theory, LP/IP, graph problems, ...)
@@ -43,22 +58,7 @@ Furthermore I'm looking for internship opportunities where I could write my mast
 * Cryptography
 * (relational) Databases
 
-## Stuff I appreciate
-
-I enjoy (in no particular order):
-
-*   [Chess](http://de.lichess.org/@/oerpli)
-*   Some sports (Cycling, Skiing, Sailing)
-*   Dark Souls
-*   Haskell
-*   It's Always Sunny in Philadelphia
-*   Curb Your Enthusiasm
-*   Fargo
-*   Bullet Lists
-*   Camembert
-
-
-## Theme
+#### Theme
 This website is built with Jekyll. I use the Moon theme from Taylan Tatlı which can be found [here](https://github.com/TaylanTatli/Moon)
 
 {::comment}
