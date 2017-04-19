@@ -33,7 +33,7 @@ Apart from that I'm mainly studying.
 Since 2014 I've been studying for my two master degrees:
 
 * **Computational Intelligence** (Vienna University of Technology)
-	* Algorithm applied to all kinds of stuff (geometry, game theory, LP/IP, graph problems, ...)
+	* Algorithms applied to all kinds of stuff (geometry, game theory, LP/IP, graph problems, ...)
 	* Machine Learning (statistical methods similar to [ElemStatLearn](http://statweb.stanford.edu/~tibs/ElemStatLearn/) & deep learning)
 	* Theoretical Computer Science
 
