@@ -12,8 +12,10 @@ tag:
 
 # Eigenvector Centrality
 Use the latex source referenced below. Or the compiled versions:
-V1: [png](/img/plot-ev-centrality.png)/[pdf](/img/plot-ev-centrality.pdf)
-V2: [png](/img/plot-ev-centrality2.png)/[pdf](/img/plot-ev-centrality2.pdf)
+
+V1 (labels near node): [png](/img/plot-ev-centrality.png)/[pdf](/img/plot-ev-centrality.pdf)
+
+V2 (labels in node): [png](/img/plot-ev-centrality2.png)/[pdf](/img/plot-ev-centrality2.pdf)
 
 Plot inspired by [Matthew O. Jackson](https://www.coursera.org/learn/social-economic-networks/lecture/OiK9a/2-4-centrality-eigenvector-measures).
 
