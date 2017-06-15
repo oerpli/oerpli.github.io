@@ -23,7 +23,7 @@ There are 2 versions:
 	/img/plot-ev-centrality.png
 	/img/plot-ev-centrality2.png
 {% endcapture %}
-{% include gallery images=images caption="Compiled picture" cols=1 %}
+{% include gallery images=images caption="Compiled picture" cols=2 %}
 
 ## Source
 {% gist 3e68cb1e30ec0847afcaa9a49a825ade %}
