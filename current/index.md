@@ -4,4 +4,4 @@ title: Current link to thesis
 comments: false
 ---
 
-[PDF](https://github.com/oerpli/exerCIses/blob/master/cosy/Thesis/MSc.pdf)
+[PDF](https://github.com/oerpli/Thesis/blob/master/MSc.pdf)
