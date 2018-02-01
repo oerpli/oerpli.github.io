@@ -1,0 +1,57 @@
+body, td, th,a {
+	background-color: #222;
+	font-family: helvetica,arial,sans-serif;
+	font-size: 14px;
+	color: #ccc;
+}
+
+.tetris-grid {
+	--size : 25px;
+	--height: 30;
+	--width: 15;
+	display: grid;
+	background-color: #111;
+	grid-column-gap:  0px;
+	grid-row-gap: 0px;
+	grid-template-columns: repeat(var(--width),var(--size));
+	grid-template-rows: repeat(var(--height),var(--size));
+	width: calc(var(--width) * var(--size));
+}
+
+.active{
+	--frameTime: 300ms;
+	animation: fallingStone infinite var(--frameTime) linear;
+}
+
+/* @keyframes fallingStone {
+	0% {
+		margin-top: 0px;
+		padding-top: var(--size);
+    }
+	100% {
+		margin-top: var(--size);
+		padding-top: var(--size);
+	}
+  } */
+
+.grid-item{
+	--E: rgb(36, 36, 36);
+
+	--S: #440154;
+	--L: #443983;
+	--Z: #31688e;
+	--J: #21918c;
+	--S: #35b779;
+	--O: #90d743;
+	--I: #fde725;
+
+	/* --L: rgba(39, 189, 144, 1); */
+	/* --J: rgba(0, 240, 220, 1); */
+	/* --Z: rgba(255, 0, 0, 1); */
+	/* --S: rgba(229, 255, 0, 1); */
+	/* --O: rgba(9, 255, 0, 1); */
+	/* --I: rgba(0, 153, 255, 1); */
+	/* --T: rgba(255, 0, 221, 1); */
+	padding: 1px;
+	color: slategray;
+}
