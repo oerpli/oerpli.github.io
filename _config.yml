@@ -8,7 +8,7 @@ reading_time:		true
 words_per_minute:   200
 logo:				'assets/img/logo.png'
 background:			'assets/img/back.jpg'
-url:				https://oerpli.ml
+url:				http://oerpli.ml
 #url:				http://localhost:4000
 
 
