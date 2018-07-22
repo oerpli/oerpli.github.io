@@ -11,8 +11,6 @@ You can contact me via [mail](mailto:oerpli@outlook.com) or on [twitter](http://
 
 I use this site to (rarely) blog about things I do. 
 
-Here some bullet lists:
-
 ## Education
 I've studied Physics at the University of Vienna (finished in 2017) and Software & Information Engineering and Computational Intelligence at the Vienna University of Technology (switched to the CI Master after 2/3 of my SW Eng. Bachelor). 
 
