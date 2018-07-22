@@ -28,7 +28,7 @@ This should be done by the end of Summer 2018, some preliminary results can be f
 	* Computational Physics & Stochastic Processes
 	* Complex Systems
 	* Electronics
-	* Quantom Optics
+	* Quantum Optics
 
 {% comment %}
 Most of my exercises are available [here](https://github.com/oerpli/exerCIses/) [^1].
