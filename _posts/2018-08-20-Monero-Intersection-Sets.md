@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Monero Traceability & Graph Theory (Work in Progress)"
-date:   2018-20-08
+date:   2018-08-20
 excerpt: "Formulation of Monero traceability analysis as a graph-theoretic problem"
 tag:
 - Monero
