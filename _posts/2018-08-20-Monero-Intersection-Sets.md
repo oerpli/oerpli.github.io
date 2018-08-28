@@ -23,7 +23,7 @@ So far, the work has been mostly empirical. I thought about finding theoretical 
 ## Mapping to bipartite graph
 
 Transactions have inputs and outputs. The set of all inputs is called \\(I)\\), the outputs are \\(O\\).
-Each input \\(i \in I)\\ is a nonempty set of outputs.
+Each input \\(i \in I)\\) is a nonempty set of outputs.
 This can be mapped to a bipartite graph. A bipartite graph is a graph \\(G=(V,E)\\) (with a set of vertices V and a set of edges E) where the set of vertices can be partitioned into two sets \\(V_1\\) and \\(V_2\\) where each edge \\(e\in E\\) connects a vertex from one set with a vertex from the other set.
 Each member of the set of inputs is mapped to a vertex of \\(V_2\\), each output is mapped to a vertex in \\(V_1\\).
 A vertex \\(v_1\\)  (output vertex) is connected to a vertex \\(v_2\\) (input vertex) if and only if the corresponding output is referenced (either as real input or as decoy) in the corresponding input.
