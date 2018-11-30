@@ -6,16 +6,15 @@ date: 2018-07-22
 comments: false
 feature: img/me.jpg
 ---
-I am Abraham Hinteregger, currently living in Vienna, Austria.
-You can contact me via [mail](mailto:oerpli@outlook.com) or on [twitter](http://twitter.com/oerpli).
+I am Abraham Hinteregger, currently living in Feldkirch, Austria. As I have recently finished my studies I am looking for an interesting job, either in Vorarlberg or Switzerland. Feel free to contact me via [mail](mailto:oerpli@outlook.com) or on [twitter](http://twitter.com/oerpli).
 
 I use this site to (rarely) blog about things I do. 
 
 ## Education
 I've studied Physics at the University of Vienna (finished in 2017) and Software & Information Engineering and Computational Intelligence at the Vienna University of Technology (switched to the CI Master after 2/3 of my SW Eng. Bachelor). 
 
-For my second Master's thesis in Computational Intelligence I am currently employed by the [Austrian Institute of Technology](http://ait.ac.at/) to work on Cryptocurrency Analytics.
-This should be done by the end of Summer 2018, some preliminary results can be found on [GitHub/MONitERO](https://github.com/oerpli/MONitERO).
+For my second Master's thesis in Computational Intelligence I was employed by the [Austrian Institute of Technology](http://ait.ac.at/) to work on Cryptocurrency Analytics.
+I've finished my work there in Summer 2018 and will present the results from my research at the  [Financial Cryptography and Data Security 2019](http://fc19.ifca.ai/) conference (a preprint of the short paper will be available shortly on arXiv.org). Some preliminary results can be found on [GitHub/MONitERO](https://github.com/oerpli/MONitERO).
 
 * **Computational Intelligence** (MSc; Vienna University of Technology, only thesis remaining)
 	* Thesis: Used a new method to analyze traceability of Monero, evaluated effectiveness against previously published traceability heuristics.
@@ -38,7 +37,7 @@ Most of my exercises are available [here](https://github.com/oerpli/exerCIses/) 
 
 # Things I do
 
-I enjoy (in no particular order):
+I enjoy (in no particular/alphabetical order):
 
 * A few TV series:
 	* Fargo
