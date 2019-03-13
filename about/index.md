@@ -22,7 +22,7 @@ I've finished my work there in Summer 2018 and presented the results from my the
 * **Publications**:
 	* 1st Thesis: Identified systemically risky companies using the DebtRank method (Battiston, 2012) ([Paper](https://www.mdpi.com/1099-4300/20/10/792)/[Preprint](https://arxiv.org/abs/1801.10487)).
     * 2nd Thesis: Used a new method that incorporates information from currency forks to trace Monero transactions; evaluated effectiveness against previously published traceability heuristics ([Preprint](https://arxiv.org/abs/1812.02808))
-    * Journal Paper: [Forensic analysis of Turkish elections in 2017–2018](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204975). My contribution for this paper were marginal (data curation & software).
+    * Journal Paper: [Forensic analysis of Turkish elections in 2017–2018](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204975). My contributions for this paper were marginal (data curation & software).
 
 * **Computational Intelligence** (MSc; Vienna University of Technology, only thesis remaining)
 	* Lots of algorithms, in some cases even applied to other stuff (geometry, game theory, LP/IP, graph problems, ...)
