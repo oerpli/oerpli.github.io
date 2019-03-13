@@ -6,7 +6,7 @@ date: 2018-07-22
 comments: false
 feature: img/me.jpg
 ---
-I am Abraham Hinteregger, currently living in Feldkirch, Austria. As I have recently finished my studies I am looking for an interesting job, either in Vorarlberg or Switzerland. Feel free to contact me via [mail](mailto:oerpli@outlook.com) or on [twitter](http://twitter.com/oerpli).
+I am Abraham Hinteregger, currently living in Feldkirch, Austria. I work as a Data Scientist in at oerlikon Balzers. Feel free to contact me via [mail](mailto:oerpli@outlook.com) or [twitter](http://twitter.com/oerpli).
 
 I use this site to (rarely) blog about things I do. 
 
@@ -14,16 +14,23 @@ I use this site to (rarely) blog about things I do.
 I've studied Physics at the University of Vienna (finished in 2017) and Software & Information Engineering and Computational Intelligence at the Vienna University of Technology (switched to the CI Master after 2/3 of my SW Eng. Bachelor). 
 
 For my second Master's thesis in Computational Intelligence I was employed by the [Austrian Institute of Technology](http://ait.ac.at/) to work on Cryptocurrency Analytics.
-I've finished my work there in Summer 2018 and will present the results from my research at the  [Financial Cryptography and Data Security 2019](http://fc19.ifca.ai/) conference (a preprint of the short paper will be available shortly on arXiv.org). Some preliminary results can be found on [GitHub/MONitERO](https://github.com/oerpli/MONitERO).
+I've finished my work there in Summer 2018 and presented the results from my thesis at the  [Financial Cryptography and Data Security 2019](http://fc19.ifca.ai/) conference in St. Kitts. The preprint of the conference paper can be found on [arXiv.org/1812.02808](https://arxiv.org/abs/1812.02808). Sourcecode, data and results can be found on [GitHub/oerpli/MONitERO](https://github.com/oerpli/MONitERO).
+
+
+### What did I do during my studies
+
+* **Publications**:
+	* 1st Thesis: Identified systemically risky companies using the DebtRank method (Battiston, 2012) ([Paper](https://www.mdpi.com/1099-4300/20/10/792)/[Preprint](https://arxiv.org/abs/1801.10487)).
+    * 2nd Thesis: Used a new method that incorporates information from currency forks to trace Monero transactions; evaluated effectiveness against previously published traceability heuristics ([Preprint](https://arxiv.org/abs/1812.02808))
+    * Journal Paper: [Forensic analysis of Turkish elections in 2017–2018](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204975). My contribution for this paper were marginal (data curation & software).
 
 * **Computational Intelligence** (MSc; Vienna University of Technology, only thesis remaining)
-	* Thesis: Used a new method to analyze traceability of Monero, evaluated effectiveness against previously published traceability heuristics.
 	* Lots of algorithms, in some cases even applied to other stuff (geometry, game theory, LP/IP, graph problems, ...)
 	* Machine learning (statistical methods [ElemStatLearn](http://statweb.stanford.edu/~tibs/ElemStatLearn/), semi-deep (<15 layers) learning)
 	* A large amount of logic, theoretical CS & discrete mathematics
+    * A few courses on programming language paradigms (e.g. stack based, functional, constraint based) and theory (e.g. theory of type systems).
 
 * **Physics** (MSc; University of Vienna, finished 11/2017)
-	* Thesis: Identified systemically risky companies using the DebtRank method (Battiston, 2012). Submitted to Journal of Financial Stability, preprint available on [arXiv.org/1801.10487](https://arxiv.org/abs/1801.10487)
 	* Computational Physics & Stochastic Processes
 	* Complex Systems
 	* Electronics
