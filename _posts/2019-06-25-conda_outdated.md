@@ -14,13 +14,12 @@ tag:
 PIP has a command `pip list --outdated` which lists all packages, where a newer version is available.
 Conda has `conda search --outdated` which lists all available versions and `conda list` which shows the currently installed version of each package.
 
-This script saves the output from `conda list` and `conda search --outdated`, parses it and generates a list of packages where the installed version does not matched the newest version available via conda.
+This script retrieves the output from `conda list` and `conda search --outdated`, parses it and generates a list of packages where the installed version does not match the newest version available via conda.
 
 {% gist 6b88df07c0ef0635bcf1cf456da69fd9 conda_outdated.py  %}
 
 ## Usage
 
-Run `python conda_outdated.py` - it asks whether to use the existing temp files or run the conda commands to create new ones (in doubt, just press `Enter`).
 The output should then resemble something like this: 
 
 {% gist 6b88df07c0ef0635bcf1cf456da69fd9 Sample_Output.txt  %}
