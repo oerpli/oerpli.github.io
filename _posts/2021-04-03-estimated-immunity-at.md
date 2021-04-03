@@ -14,7 +14,7 @@ tag:
 
 
 
-Vaccination in Austria started in Jan 2020 and has been steadily increased its pace every since.
+Vaccination in Austria started in Jan 2020 and has steadily increased its pace every since.
 
 <div class="vega-chart" id="vacc_real_t_at"></div>
 
@@ -23,6 +23,7 @@ Based on the amount of currently vaccinated people and using the real-world effi
 Additionally, I calculate the estimated immunity for an alternative universe, where vaccines where distributed according to a FDF approach as employed in the UK [^1]
 
 <div class="vega-chart" id="imm_real_at"></div>
+
 <div class="vega-chart" id="imm_fdf_at"></div>
 
 
