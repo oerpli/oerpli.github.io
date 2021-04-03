@@ -3,7 +3,7 @@ layout: post
 title:  "Estimated Immunity Austria"
 date:   2021-04-03
 project: false
-excerpt: "[Work in Progress]"
+excerpt: "Estimating impact of not adopting FDF approach"
 charts: true
 tag:
 - COVID-19
