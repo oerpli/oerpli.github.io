@@ -42,31 +42,26 @@ layout: compress
                 {% endfor %}
 
                 {{ content | toc }}
-                <div class="entry-meta">
-                    {% include meta.html %}
-                </div>
 
-
-                { % for chart in page.charts % }
+                {% for chart in page.charts %}
                 <script>
                     (function (vegaEmbed) {
-                        var spec = "https://raw.githubusercontent.com/oerpli/oerpli.github.io/master/fdf/{{chart}}.json"
+                        var spec = "https://raw.githubusercontent.com/oerpli/oerpli.github.io/master/fdf/{{ chart }}.json";
                         var embedOpt = { "mode": "vega-lite" };
 
                         function showError(el, error) {
-                            el.innerHTML = ('<div class="error" style="color:red;">'
-                                + '<p>JavaScript Error: ' + error.message + '</p>'
-                                + "<p>This usually means there's a typo in your chart specification. "
-                                + "See the javascript console for the full traceback.</p>"
-                                + '</div>');
+                            el.innerHTML = ('<div class="error" ><p>Chart Spec Error: ' + error.message + '</p></div>');
                             throw error;
                         }
-                        const el = document.getElementById('{{chart}}');
-                        vegaEmbed("#{{chart}}", spec, embedOpt)
-                            .catch(error => showError(el, error));
+                        const el = document.getElementById('{{ chart }}');
+                        vegaEmbed("#{{ chart }}", spec, embedOpt).catch(error => showError(el, error));
                     })(vegaEmbed);
                 </script>
-                { % endfor % }
+                {% endfor %}
+
+                <div class="entry-meta">
+                    {% include meta.html %}
+                </div>
             </div>
         </div>
         {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section>
