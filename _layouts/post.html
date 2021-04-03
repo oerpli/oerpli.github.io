@@ -5,10 +5,14 @@ layout: compress
 <!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
 <head>
     {% include head.html %}
 </head>
+
 <body>
     {% include nav.html %}
     <!-- Header -->
@@ -20,30 +24,53 @@ layout: compress
                     <h4>{{ page.date | date_to_string }}</h4>
                     {% if site.reading_time %}
                     <p class="reading-time">
-                      <i class="fa fa-clock-o"></i>
-                      {% include read-time.html %}
+                        <i class="fa fa-clock-o"></i>
+                        {% include read-time.html %}
                     </p><!-- /.entry-reading-time -->
                     {% endif %}
                     {% if page.project %}
                     <a class="btn zoombtn" href="{{site.url}}/projects/">
-                    {% else %}
-                    <a class="btn zoombtn" href="{{site.url}}/posts/">
-                    {% endif %}
-                        <i class="fa fa-chevron-left"></i>
-                    </a>
+                        {% else %}
+                        <a class="btn zoombtn" href="{{site.url}}/posts/">
+                            {% endif %}
+                            <i class="fa fa-chevron-left"></i>
+                        </a>
                 </div>
-				{% for game in page.games %} 
-					<iframe width=600 height=397 frameborder=0
-					src="https://lichess.org/embed/{{ game }}?theme=auto&bg=auto"></iframe>
-				{% endfor %}
-			
-				{{ content | toc }}
+                {% for game in page.games %}
+                <iframe width=600 height=397 frameborder=0
+                    src="https://lichess.org/embed/{{ game }}?theme=auto&bg=auto"></iframe>
+                {% endfor %}
+
+                {{ content | toc }}
                 <div class="entry-meta">
-                {% include meta.html %}
+                    {% include meta.html %}
                 </div>
+
+
+                { % for chart in page.charts % }
+                <script>
+                    (function (vegaEmbed) {
+                        var spec = "https://raw.githubusercontent.com/oerpli/oerpli.github.io/master/fdf/{{chart}}.json"
+                        var embedOpt = { "mode": "vega-lite" };
+
+                        function showError(el, error) {
+                            el.innerHTML = ('<div class="error" style="color:red;">'
+                                + '<p>JavaScript Error: ' + error.message + '</p>'
+                                + "<p>This usually means there's a typo in your chart specification. "
+                                + "See the javascript console for the full traceback.</p>"
+                                + '</div>');
+                            throw error;
+                        }
+                        const el = document.getElementById('{{chart}}');
+                        vegaEmbed("#{{chart}}", spec, embedOpt)
+                            .catch(error => showError(el, error));
+                    })(vegaEmbed);
+                </script>
+                { % endfor % }
             </div>
         </div>
-        {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
+        {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section>
+        <!-- /#disqus_thread -->{% endif %}
     </header>
     {% include scripts.html %}
     {% if site.mathjax == true %}
@@ -51,4 +78,5 @@ layout: compress
     <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     {% endif %}
 </body>
+
 </html>
