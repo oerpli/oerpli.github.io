@@ -10,16 +10,17 @@ tag:
 - FirstDosesFirst
 - Vaccinations
 - Austria
-- Vorarlberg
+- Vienna
+- Wien
 ---
 
 
 
-The COVID-vaccination program in Austria/Vorarlberg started in Jan 2021 (except a few doses given in Dezember 2020 for PR purposes) and has since steadily increased its pace.
+The COVID-vaccination program in Austria/Vienna started in Jan 2021 (except a few doses given in Dezember 2020 for PR purposes) and has since steadily increased its pace.
 
 The following figure shows the cumulative number of vaccinations given per age group.
 
-<div class="vega-chart" id="vacc_real_t_at-vlbg"></div>
+<div class="vega-chart" id="vacc_real_t_at-vienna"></div>
 
 # Estimated immunity
 Based on the amount of currently vaccinated people and using the real-world efficacy estimate from the NHS (89% with 1 dose, 95% with two doses).
@@ -29,9 +30,9 @@ Note these figures don't incorporate the time-lag between vaccination and build-
 - I don't have very good data on the speed with which different age groups build up immunity (nor even, how this build-up is in aggregate)
 - The chosen method better visualizes towards what level of immunity our vaccination effort would rise if the programs are paused (for whatever reason, e.g. supply issues).
 
-<div class="vega-chart" id="imm_real_at-vlbg"></div>
+<div class="vega-chart" id="imm_real_at-vienna"></div>
 
-<div class="vega-chart" id="imm_fdf_at-vlbg"></div>
+<div class="vega-chart" id="imm_fdf_at-vienna"></div>
 
 
 # Sources
