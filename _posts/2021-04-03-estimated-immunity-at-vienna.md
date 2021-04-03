@@ -50,6 +50,9 @@ For this purpose I calculate the weighted average immunity again, but this time 
 <div class="vega-chart" id="imm_wd_at-vienna"></div>
 
 
+If this number is close to 1, COVID would still spread but deaths would mostly vanish. From a cursory glance it looks like we lost more than one month to reach that point by not prioritizing first doses so far. 
+This difference will likely be crucial if the UK variant leads to a higher number of cases in the coming months.
+
 # Sources
 
 [^1]: The prioritization scheme I chose is roughly as described in this [response](https://www.bmj.com/content/372/bmj.n710/rr). The age brackets available in my data set don't match those in the proposed scheme exactly. I used the relative risk as published by the CDC to prioritize the groups.

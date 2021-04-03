@@ -49,6 +49,8 @@ For this purpose I calculate the weighted average immunity again, but this time 
 <div class="vega-chart" id="imm_wd_at-vlbg"></div>
 
 
+If this number is close to 1, COVID would still spread but deaths would mostly vanish. From a cursory glance it looks like we lost more than one month to reach that point by not prioritizing first doses so far. 
+This difference will likely be crucial if the UK variant leads to a higher number of cases in the coming months.
 
 # Sources
 
