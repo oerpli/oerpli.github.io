@@ -15,14 +15,12 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
-    eventmachine (1.2.7-x64-mingw32)
     faraday (1.3.0)
       faraday-net_http (~> 1.0)
       multipart-post (>= 1.2, < 3)
       ruby2_keywords
     faraday-net_http (1.0.1)
     ffi (1.15.0)
-    ffi (1.15.0-x64-mingw32)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
     html-pipeline (2.14.0)
@@ -71,6 +69,8 @@ GEM
       jekyll (>= 3.0, < 5.0)
     kramdown (2.3.1)
       rexml
+    kramdown-parser-gfm (1.1.0)
+      kramdown (~> 2.0)
     liquid (4.0.3)
     listen (3.5.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -78,9 +78,7 @@ GEM
     mercenary (0.3.6)
     minitest (5.14.4)
     multipart-post (2.1.1)
-    nokogiri (1.11.2)
-      racc (~> 1.4)
-    nokogiri (1.11.2-x64-mingw32)
+    nokogiri (1.11.2-x86_64-linux)
       racc (~> 1.4)
     octokit (4.20.0)
       faraday (>= 0.9)
@@ -111,8 +109,7 @@ GEM
     zeitwerk (2.4.2)
 
 PLATFORMS
-  ruby
-  x64-mingw32
+  x86_64-linux
 
 DEPENDENCIES
   jekyll (~> 3.0)
@@ -125,6 +122,7 @@ DEPENDENCIES
   jekyll-smartify
   jekyll-toc
   jemoji
+  kramdown-parser-gfm
 
 BUNDLED WITH
-   1.13.1
+   2.2.15

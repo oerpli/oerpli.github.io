@@ -20,7 +20,7 @@ Introduction to be written. Posts released so far linked below. Some unfinished 
   - [Efficacy of 1D vs 2D of BNT162b2]({% post_url 2021-04-01-efficacy-1d-2d %})
   - [Reasons why FDF might be a bad idea]({% post_url 2021-04-03-fdf-counter-arguments %}) [WIP]
 - Calculations of impact, based on empircal data [WIP - all links below]
-  - [Estimated immunity with FDF strategy]({% post_url 2021-04-03-estimated-immunity-vlbg %})
+  - [Estimated immunity with FDF strategy]({% post_url 2021-04-03-estimated-immunity-at-vlbg %})
   - [Austria]({% post_url 2021-04-03-estimated-immunity-at %})
     - [Vorarlberg]({% post_url 2021-04-03-estimated-immunity-at-vlbg %})
     - [Vienna]({% post_url 2021-04-03-estimated-immunity-at-vienna %})
