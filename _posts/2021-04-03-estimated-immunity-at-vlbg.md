@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Estimated Immunity Vienna/AT"
+title:  "Estimated Immunity Vorarlberg/AT"
 date:   2021-04-03
 project: false
-excerpt: "[Work in Progress]"
+excerpt: "Estimating impact of not adopting FDF approach"
 charts: true
 tag:
 - COVID-19
@@ -16,7 +16,7 @@ tag:
 
 # Introduction
 
-The COVID-vaccination program in Austria started in Jan 2021 (except for a few doses given in Dezember 2020 for PR purposes) and has since steadily increased its pace.
+The COVID-vaccination program in Vorarlberg started in Jan 2021 (except for a few doses given in Dezember 2020 for PR purposes) and has since steadily increased its pace.
 So far, vaccinations in Austria have largely been administered according to the vaccination strategy suggested by the vaccine trials.
 This strategy was optimized to get a fast approval. For this reason, the following two decisions were made during the trial:
 
@@ -27,7 +27,7 @@ Now that the vaccines are approved for use, it is time to reconsider some of the
 For example the NHS in the United Kingdom decided to prioritize giving as many people as possible a first dose of the vaccine instead of holding back a second dose for people already vaccinated once.
 Additionally, they also decided to increase the time interval between the two doses (this strategy is commonly referred to as "First Doses First", or short "FDF").
 
-In this post, I will analyze how a FDF approach would have impacted the immunization of Austria's population so far.
+In this post, I will analyze how a FDF approach would have impacted the immunization of Vorarlberg's population so far.
 
 
 # Analysis
