@@ -12,9 +12,27 @@ layout: compress
 <head>
     {% include head.html %}
     {% if page.charts %}
-        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
-        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
-        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+
+    <script>
+        var object = {
+            embed: function (element) {
+                var spec = "https://raw.githubusercontent.com/oerpli/oerpli.github.io/master/fdf/" + element.id + ".json";
+                var embedOpt = { "mode": "vega-lite" };
+
+                function showError(el, error) {
+                    el.innerHTML = ('<div class="error" ><p>Chart Spec Error: ' + element.id + '</p></div>');
+                    throw error;
+                }
+                vegaEmbed("#" + element.id, spec, embedOpt).catch(error => showError(element, error));
+            }
+        };
+        document.addEventListener('DOMContentLoaded', function () {
+            document.querySelectorAll('.vega-chart').forEach(x => object.embed(x));
+        }, false);
+    </script>
     {% endif %}
 </head>
 
@@ -47,22 +65,6 @@ layout: compress
                 {% endfor %}
 
                 {{ content | toc }}
-
-                {% for chart in page.charts %}
-                <script>
-                    (function (vegaEmbed) {
-                        var spec = "https://raw.githubusercontent.com/oerpli/oerpli.github.io/master/fdf/{{ chart }}.json";
-                        var embedOpt = { "mode": "vega-lite" };
-
-                        function showError(el, error) {
-                            el.innerHTML = ('<div class="error" ><p>Chart Spec Error: ' + error.message + '</p></div>');
-                            throw error;
-                        }
-                        const el = document.getElementById('{{ chart }}');
-                        vegaEmbed("#{{ chart }}", spec, embedOpt).catch(error => showError(el, error));
-                    })(vegaEmbed);
-                </script>
-                {% endfor %}
 
                 <div class="entry-meta">
                     {% include meta.html %}
