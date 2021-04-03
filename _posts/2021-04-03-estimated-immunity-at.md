@@ -12,9 +12,13 @@ tag:
 - Austria
 ---
 
+[WIP] - look at [post on Vorarlberg](2021-04-03-estimated-immunity-at-vlbg.md) to get current staff. When that one is finished, I will update for other regions as well.
 
 
-Vaccination in Austria started in Jan 2020 and has steadily increased its pace every since.
+
+
+
+Vaccination in Austria started in Jan 2020 and has steadily increased its pace ever since.
 
 <div class="vega-chart" id="vacc_real_t_at"></div>
 
