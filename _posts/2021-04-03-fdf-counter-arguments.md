@@ -9,6 +9,8 @@ tag:
 - Vaccinations
 ---
 
+Back to the [COVID-19 First Doses First Project Overview]({% post_url 2021-04-01-first-doses-first %}).
+
 Common arguments against a single dose vaccination strategy are immune escape and long time protection.
 
 If you have other reasons why FDF might be dangerous, either contact me via [Twitter](https://twitter.com/oerpli) or open a PR on [GitHub](https://github.com/oerpli/FirstDosesFirst).
