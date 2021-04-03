@@ -35,6 +35,21 @@ Note these figures don't incorporate the time-lag between vaccination and build-
 
 <div class="vega-chart" id="imm_fdf_at"></div>
 
+As can be seen, with a "First Doses First" approach the immunity in the critical age groups (roughly above 65 years old) would be vastly higher.
+
+## Weighted average immunity
+To get a better sense of the increased average immunity, here's a plot of the immunity weighted by population, i.e the "average immunity per person".
+This is approximately factor by which the spread would decrease in a world where all age groups have a similar level of social activity (this is not the world we live in).
+
+<div class="vega-chart" id="imm_wp_at"></div>
+
+If the whole population is immune (the line above is above the herd-immunity threshold, roughly around 0.85 I would guess), COVID is over and we've won.
+
+For the time being this is quite some time away, so the first priority should be to avoid those people with the highest risk (where COVID is most lethal).
+For this purpose I calculate the weighted average immunity again, but this time I weight it with the death-distribution (published by AGES) from COVID instead
+
+<div class="vega-chart" id="imm_wd_at"></div>
+
 
 # Sources
 
