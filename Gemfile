@@ -10,3 +10,4 @@ gem 'jekyll-toc'
 gem 'jekyll-email-protect'
 gem 'jemoji'
 gem 'jekyll-compose', group: [:jekyll_plugins]
+gem "kramdown-parser-gfm"
