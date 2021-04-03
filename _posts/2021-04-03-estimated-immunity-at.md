@@ -12,6 +12,8 @@ tag:
 - Austria
 ---
 
+Back to the [COVID-19 First Doses First Project Overview]({% post_url 2021-04-01-first-doses-first %}).
+
 # Introduction
 
 The COVID-vaccination program in Austria started in Jan 2021 (except for a few doses given in Dezember 2020 for PR purposes) and has since steadily increased its pace.
