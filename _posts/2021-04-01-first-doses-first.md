@@ -13,7 +13,19 @@ tag:
 
 # Introduction
 
-Introduction to be written. Posts released so far linked below. Some unfinished drafts are marked as work in progress (WIP).
+In the current stage of the pandemic, vaccines are worth their weight in gold (and then some, gold is not that expensive and the vaccines not that heavy).
+Particularly in ~~Europe~~ the EU, there are currently shortages due to a failed procurement strategy. 
+To make at least some lemonade from the lemons we were given, it is paramount to efficiently distribute the vaccines to maximize their impact.
+
+On idea which has been successfully adopted by several regions (UK, Quebec and others) is to give as many people as possible a first dose of the vaccination,
+as even a single dose is enough to prevent severe cases of COVID (more about this can be found [here]({% post_url 2021-04-01-efficacy-1d-2d %})).
+
+The basic argument boils down to this:
+- One dose of the vaccination reduces symptomatic cases by >85%
+- Two doses reduce symptomatic cases by >90% (the exact numbers differ between the vaccinations and age groups, but this is roughly what they are)
+- Assume that you have 2 doses - you can either give one to your grandmother and one to your grandfather or both of them to your grandmother
+  - In the first case, you prevent that both of them die but they might get a mild cough (with 15% chance).
+  - In the other case you reduce the chance that granny gets a cough by another 10% but you let your grandfather die (or at least wait a few months with a raging pandemic until it's his turn to get vaccinated).
 
 # Overview of posts
 
@@ -22,7 +34,7 @@ Introduction to be written. Posts released so far linked below. Some unfinished 
 - Calculations of impact, based on empircal data [WIP - all links below]
   - [Estimated immunity with FDF strategy]({% post_url 2021-04-03-estimated-immunity-at %})
     - [Post with figures for all federal states of Austria]({% post_url 2021-04-04-estimated-immunity-at-regions %})
-- [Reasons why FDF might be a bad idea]({% post_url 2021-04-03-fdf-counter-arguments %}) [WIP]
+- [Reasons why FDF might be a bad idea]({% post_url 2021-04-03-fdf-counter-arguments %}) [Work in Progress - Feedback is greatly appreciated here]
 
 # Source Code
 
