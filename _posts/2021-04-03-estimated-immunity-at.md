@@ -10,9 +10,13 @@ tag:
 - FirstDosesFirst
 - Vaccinations
 - Austria
+- Bundesländer
+
 ---
 
 Back to the [COVID-19 First Doses First Project Overview]({% post_url 2021-04-01-first-doses-first %}).
+
+Another [post containing the same figures as this one but for each individual region]({% post_url 2021-04-04-estimated-immunity-at-regions %})
 
 # Introduction
 
