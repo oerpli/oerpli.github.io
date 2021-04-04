@@ -20,11 +20,8 @@ Introduction to be written. Posts released so far linked below. Some unfinished 
 - Arguments why a First Doses First approach makes sense
   - [Efficacy of 1D vs 2D of BNT162b2]({% post_url 2021-04-01-efficacy-1d-2d %})
 - Calculations of impact, based on empircal data [WIP - all links below]
-  - Estimated immunity with FDF strategy (click links below, currently one link per region)
-    - [Austria]({% post_url 2021-04-03-estimated-immunity-at %})
-      - [Vorarlberg]({% post_url 2021-04-03-estimated-immunity-at-vlbg %})
-      - [Vienna]({% post_url 2021-04-03-estimated-immunity-at-vienna %})
-      - [Tyrol]({% post_url 2021-04-03-estimated-immunity-at-tyrol %})
+  - [Estimated immunity with FDF strategy]({% post_url 2021-04-03-estimated-immunity-at %})
+    - [Post with figures for all federal states of Austria]({% post_url 2021-04-04-estimated-immunity-at-regions %})
 - [Reasons why FDF might be a bad idea]({% post_url 2021-04-03-fdf-counter-arguments %}) [WIP]
 
 # Source Code
