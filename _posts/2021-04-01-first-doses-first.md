@@ -15,16 +15,15 @@ tag:
 In the current phase of the pandemic, most countries have insufficient supply of vaccines.
 As long as this is the case, it is paramount to efficiently distribute the available vaccines to maximize their impact.
 
-On idea which has been successfully adopted by several regions (UK, Quebec and others) is to give as many people as possible a first dose of the vaccination,
+On idea which has been successfully adopted by several regions (UK, Quebec and others) is to give as many people as possible a first dose of the vaccine,
 as even a single dose is enough to prevent severe cases of COVID (more about this can be found [here]({% post_url 2021-04-01-efficacy-1d-2d %})).
 
 The basic argument boils down to this:
-- One dose of the vaccination reduces symptomatic cases by >85%
-- Two doses reduce symptomatic cases by >90% (the exact numbers differ between the vaccinations and age groups, but this is roughly what they are)
+- One dose of the vaccine reduces symptomatic cases by approximately 85%.
+- Two doses reduce symptomatic cases by >90% (the exact numbers differ between the various vaccines (AZ, Moderna, Pfizer, ...) and age groups, but this is roughly what they are)
 - Assume that you have 2 doses - you can either give one to your grandmother and one to your grandfather or both of them to your grandmother
   - In the first case, you prevent that both of them die but they might get a mild cough (with 15% chance).
-  - In the other case you reduce the chance that granny gets a cough by another 10% but you let your grandfather die (or at least wait a few months with a raging pandemic until it's his turn to get vaccinated).
-
+  - In the other case you reduce the chance that your grandmother gets a cough by another 10% but you let your grandfather die (or at least wait a few months in a pandemic until it's his turn to get vaccinated).
 
 # Overview of posts
 
@@ -40,7 +39,7 @@ The basic argument boils down to this:
 
 I strongly recommend reading/watching these links. I ordered them from top to bottom, based on how much value they add per minute of your time.
 
-- Washington Post [Tabarrok on a faster way to herd immunity](https://www.washingtonpost.com/outlook/2021/02/12/first-doses-vaccine-rules-fda/?arc404=true)
+- Washington Post [A. Tabarrok on a faster way to herd immunity](https://www.washingtonpost.com/outlook/2021/02/12/first-doses-vaccine-rules-fda/?arc404=true)
 - Reason Magazine [We could vaccinate twice as fast (Youtube, 7min)](https://www.youtube.com/watch?v=OZ3DubRHSVo) 
 - New York  Times [Ezra Klein on FDF and related topics](https://www.nytimes.com/2021/04/01/opinion/covid-vaccine.html)
 - [TheZvi](thezvi.wordpress.com): Weekly post (usually released on a Thursday) that summarizes the news from the last week and makes [solid predictions](https://thezvi.wordpress.com/2020/12/24/covid-12-24-were-fed-its-over/).
