@@ -30,7 +30,9 @@ I think not a single person that ever brought up this argument would bet a non-t
 - There could be severe side effects if the second dose (which is identical to the first) is given later.
 
 If nobody really believes that these two statements are true, why are we sacrificing thousands of lives pretending that they are true? 
-And why are we still sacrificing thousands of lives and months in lockdown, after it has been conclusively proven by empirical data that they are indeed not true? 
+And why are we still sacrificing thousands of lives and months in lockdown, after it has been conclusively proven by empirical data that they are indeed not both true? 
+On the contrary, some studies have since been published that show better long term protection with larger interval between the two doses.
+
 
 # Immune escape
 Immune escape happens if the virus evolves/mutates in a way that allows spread even in a vaccinated population. The theory is that partial immunity might be especially bad as the virus could reproduce in a host for several generations until the immune system doesn't recognize the virus anymore and the immunity (conferred by the vaccine) is rendered ineffective. 
