@@ -12,10 +12,8 @@ tag:
 
 
 # Introduction
-
-In the current stage of the pandemic, vaccines are worth their weight in gold (and then some, gold is not that expensive and the vaccines not that heavy).
-Particularly in ~~Europe~~ the EU, there are currently shortages due to a failed procurement strategy. 
-To make at least some lemonade from the lemons we were given, it is paramount to efficiently distribute the vaccines to maximize their impact.
+In the current phase of the pandemic, most countries have insufficient supply of vaccines.
+As long as this is the case, it is paramount to efficiently distribute the available vaccines to maximize their impact.
 
 On idea which has been successfully adopted by several regions (UK, Quebec and others) is to give as many people as possible a first dose of the vaccination,
 as even a single dose is enough to prevent severe cases of COVID (more about this can be found [here]({% post_url 2021-04-01-efficacy-1d-2d %})).
