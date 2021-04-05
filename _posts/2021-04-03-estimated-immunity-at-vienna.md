@@ -3,6 +3,7 @@ layout: post
 title:  "Estimated Immunity Vienna/AT"
 date:   2021-04-03
 project: false
+hidden: true
 charts: true
 ---
 
