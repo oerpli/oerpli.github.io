@@ -27,6 +27,7 @@ The basic argument boils down to this:
   - In the first case, you prevent that both of them die but they might get a mild cough (with 15% chance).
   - In the other case you reduce the chance that granny gets a cough by another 10% but you let your grandfather die (or at least wait a few months with a raging pandemic until it's his turn to get vaccinated).
 
+
 # Overview of posts
 
 - Arguments why a First Doses First approach makes sense
@@ -36,20 +37,13 @@ The basic argument boils down to this:
     - [Post with figures for all federal states of Austria]({% post_url 2021-04-04-estimated-immunity-at-regions %})
 - [Reasons why FDF might be a bad idea]({% post_url 2021-04-03-fdf-counter-arguments %}) [Work in Progress - Feedback is greatly appreciated here]
 
-# Source Code
-
-Source Code & all used data can be found on [Github](https://github.com/oerpli/FirstDosesFirst).
-
-# Acknowledgements
-
-My work is primarily inspired by [Alex Tabarrok](https://twitter.com/ATabarrok) and [Zvi Mowshowitz](thezvi.wordpress.com). While I recommend reading their output in general, I particularly recommend their writing on COVID as it is miles and months ahead of most newspapers.
-
-Furthermore I want to thank Zvi & the anonymous donor that sponsored the [COVID microgrants](https://thezvi.wordpress.com/2021/03/04/covid-3-4-declare-victory-and-leave-home/) that made this work possible.
 
 # Recommended Reading & Watching
 
-- Reason Magazine [We could vaccinate twice as fast (Youtube, 7min)](https://www.youtube.com/watch?v=OZ3DubRHSVo) 
+I strongly recommend reading/watching these links. I ordered them from top to bottom, based on how much value they add per minute of your time.
+
 - Washington Post [Tabarrok on a faster way to herd immunity](https://www.washingtonpost.com/outlook/2021/02/12/first-doses-vaccine-rules-fda/?arc404=true)
+- Reason Magazine [We could vaccinate twice as fast (Youtube, 7min)](https://www.youtube.com/watch?v=OZ3DubRHSVo) 
 - New York  Times [Ezra Klein on FDF and related topics](https://www.nytimes.com/2021/04/01/opinion/covid-vaccine.html)
 - [TheZvi](thezvi.wordpress.com): Weekly post (usually released on a Thursday) that summarizes the news from the last week and makes [solid predictions](https://thezvi.wordpress.com/2020/12/24/covid-12-24-were-fed-its-over/).
 - [Marginal Revolution](https://marginalrevolution.com/): Blog with many (!), mostly very short posts. A bit hard to get into at first but I know from personal experience that it's possible. It is written by Alex Tabarrok and Tyler Cowen.
@@ -60,3 +54,35 @@ Furthermore I want to thank Zvi & the anonymous donor that sponsored the [COVID 
 - Vox [Why you can't compare vaccines based on trial data](https://www.youtube.com/watch?v=K3odScka55A)
 - UK Government: [Analysing effectiveness of first vaccine](https://publichealthmatters.blog.gov.uk/2021/02/23/covid-19-analysing-first-vaccine-effectiveness-in-the-uk/)
     - [COVID-19 Dashboard](https://coronavirus.data.gov.uk/) (the trend is pretty impressive and one of the best arguments to switch to FDF).
+
+
+
+# Extending this work, data & source code
+
+The methods I employed could be used to analyse other countries & regions as well.
+If there's good data (such as the one published by the Austrian Government with it's eVaccination program) it can be done in a few minutes. 
+
+The complete source code of my work as well as the complete data set is published on GitHub.
+Data that is not contained will be automatically downloaded, parsed & prepared when the code is run (`data_loading.py` contains all of these procedures).
+
+Source Code & everything else can be found on [Github](https://github.com/oerpli/FirstDosesFirst).
+
+If you're interested in extending this work or investigate some specific question (or would like me to do so), please open a ticket on Github or contact me on [twitter](https://twitter.com/oerpli).
+
+
+# Acknowledgements
+
+My work is primarily inspired by [Alex Tabarrok](https://twitter.com/ATabarrok) and [Zvi Mowshowitz](thezvi.wordpress.com). While I recommend reading their output in general, I particularly recommend their writing on COVID as it is miles and months ahead of most newspapers.
+
+Furthermore I want to thank Zvi & the anonymous donor that sponsored the [COVID microgrants](https://thezvi.wordpress.com/2021/03/04/covid-3-4-declare-victory-and-leave-home/) that made this work possible.
+
+### Donations
+
+At the current point in time this project is not constrained by budget.
+If you still have a strong urge to donate me something, I won't stop you.
+
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="A8V5PW6932NME" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" src="https://www.paypal.com/en_AT/i/scr/pixel.gif" width="1" height="1" />
+</form>
