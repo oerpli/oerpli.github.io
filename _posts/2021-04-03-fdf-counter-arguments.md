@@ -12,16 +12,15 @@ tag:
 Back to the [COVID-19 First Doses First Project Overview]({% post_url 2021-04-01-first-doses-first %}).
 
 Common arguments against a single dose vaccination strategy are:
-- "wasn't tested that way"
-- immune escape
-- long time protection.
-
-If you have other reasons why FDF might be a bad idea, either contact me via [Twitter](https://twitter.com/oerpli) or open a PR on [GitHub](https://github.com/oerpli/FirstDosesFirst).
 
 - [Wasn't tested that way](#wasnt-tested-that-way)
 - [Immune escape](#immune-escape)
 - [Long time protection](#long-time-protection)
   - [Table of 2D vs 1D with revaccination](#table-of-2d-vs-1d-with-revaccination)
+
+If you have other reasons why FDF might be a bad idea, either contact me via [Twitter](https://twitter.com/oerpli) or open a PR on [GitHub](https://github.com/oerpli/FirstDosesFirst).
+
+
 
 # Wasn't tested that way
 This argument employs a classic method of bad argumentation.
