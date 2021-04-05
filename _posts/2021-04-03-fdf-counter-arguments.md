@@ -16,7 +16,6 @@ Common arguments against a single dose vaccination strategy are:
 - [Wasn't tested that way](#wasnt-tested-that-way)
 - [Immune escape](#immune-escape)
 - [Long time protection](#long-time-protection)
-  - [Table of 2D vs 1D with revaccination](#table-of-2d-vs-1d-with-revaccination)
 
 If you have other reasons why FDF might be a bad idea, either contact me via [Twitter](https://twitter.com/oerpli) or open a PR on [GitHub](https://github.com/oerpli/FirstDosesFirst).
 
@@ -59,9 +58,7 @@ The more serious counter arguments are:
   - You could vaccinate 5, 10, 20, 40 and 80 people with 2 doses. Total of 155.
   - Or, with only 1 dose, refreshed after 2 months: 10, 20, 30 (40 doses in March, 30 first time vaccinations, 10 "wasted" to refresh those from January), 60, 120 (160 doses, 120 first time, 40 to revaccinate everyone from March, including those that already had one in January). Total of 240.
   - At some point (when enough people are vaccinated or the ramp up of production capacity slows down) it will be better to switch over to 2 doses in 1 month and be done with it but currently we're far away from that point.
-  - A table can be found below
 
-## Table of 2D vs 1D with revaccination 
 
 This table shows a worst-case estimation of number of people vaccinated with a 1D strategy if they need revaccination after 2 months (in case immunity completely vanishes if the 2nd dose is given more than a month after the first). 
 The number in the "2D strategy" column is just the number of doses divided by two, the 1D numbers is the number of doses minus the number of people vaccinated two months earlier (bold part in Revaccinations column).
