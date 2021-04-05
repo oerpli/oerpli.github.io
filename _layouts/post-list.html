@@ -25,13 +25,15 @@
                 </div>
                 <div class="post-list">
                     {% for post in site.posts %}
+                    {% unless post.hidden == true %}
                     <ul>
-                        <li class="wow fadeInLeft" data-wow-duration=".25s">
+                        <li class="wow fadeInLeft" data-wow-duration=".15s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                             <p>{{ post.excerpt }}</p>
                             <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
                         </li>
                     </ul>
+                    {% endunless  %}
                     {% endfor %}
                 </div>
             </div>
