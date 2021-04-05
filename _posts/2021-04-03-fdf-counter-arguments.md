@@ -11,14 +11,28 @@ tag:
 
 Back to the [COVID-19 First Doses First Project Overview]({% post_url 2021-04-01-first-doses-first %}).
 
-Common arguments against a single dose vaccination strategy are immune escape and long time protection.
+Common arguments against a single dose vaccination strategy are:
+- "wasn't tested that way"
+- immune escape
+- long time protection.
 
-If you have other reasons why FDF might be dangerous, either contact me via [Twitter](https://twitter.com/oerpli) or open a PR on [GitHub](https://github.com/oerpli/FirstDosesFirst).
+If you have other reasons why FDF might be a bad idea, either contact me via [Twitter](https://twitter.com/oerpli) or open a PR on [GitHub](https://github.com/oerpli/FirstDosesFirst).
 
+- [Wasn't tested that way](#wasnt-tested-that-way)
 - [Immune escape](#immune-escape)
 - [Long time protection](#long-time-protection)
   - [Table of 2D vs 1D with revaccination](#table-of-2d-vs-1d-with-revaccination)
 
+# Wasn't tested that way
+This argument employs a classic method of bad argumentation.
+It invokes the spectre of "untested medication that could cripple newborns" while in reality "untested" only refers to "not following bureaucratic protocol to the T".
+
+I think not a single person that ever brought up this argument would bet a non-trivial amount of dollars that the following statements are both true:
+- Two doses of vaccination X are safe, if administered 3 weeks apart (or up to 5 weeks apart)
+- There could be severe side effects if the second dose (which is identical to the first) is given later.
+
+If nobody really believes that these two statements are true, why are we sacrificing thousands of lives pretending that they are true? 
+And why are we still sacrificing thousands of lives and months in lockdown, after it has been conclusively proven by empirical data that they are indeed not true? 
 
 # Immune escape
 Immune escape happens if the virus evolves/mutates in a way that allows spread even in a vaccinated population. The theory is that partial immunity might be especially bad as the virus could reproduce in a host for several generations until the immune system doesn't recognize the virus anymore and the immunity (conferred by the vaccine) is rendered ineffective. 
