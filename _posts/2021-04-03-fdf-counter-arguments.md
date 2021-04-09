@@ -11,6 +11,8 @@ tag:
 
 Back to the [COVID-19 First Doses First Project Overview]({% post_url 2021-04-01-first-doses-first %}).
 
+Note: This post is still pretty weak
+
 Common arguments against a single dose vaccination strategy are:
 
 - [Wasn't tested that way](#wasnt-tested-that-way)

@@ -35,18 +35,28 @@ The basic argument boils down to this:
 - [Reasons why FDF might be a bad idea]({% post_url 2021-04-03-fdf-counter-arguments %}) [Work in Progress - Feedback is greatly appreciated here]
 
 
+# Is this some weird crank theory?
+No. 
+- Atul Gawande (MD, a surgeon at Boston-based Brigham and Women's Hospital and a professor at Harvard Medical School ):  https://twitter.com/Atul_Gawande/status/1377275975050924040?s=20
+- Ezekiel J. Emanuel (MD, PhD, chair of the department of medical ethics and health policy at the University of Pennsylvania in Philadelphia): https://eu.usatoday.com/story/opinion/2021/04/08/covid-surge-deliver-first-vaccine-shots-delay-second-doses-column/7122747002/
+
+(both on Joe Biden's [COVID Taskforce](https://www.beckershospitalreview.com/hospital-management-administration/meet-the-13-members-of-biden-s-covid-19-task-force.html))
+
+
 # Recommended Reading & Watching
 
 I strongly recommend reading/watching these links. I ordered them from top to bottom, based on how much value they add per minute of your time.
 
 - Washington Post [A. Tabarrok on a faster way to herd immunity](https://www.washingtonpost.com/outlook/2021/02/12/first-doses-vaccine-rules-fda/?arc404=true)
 - Reason Magazine [We could vaccinate twice as fast (Youtube, 7min)](https://www.youtube.com/watch?v=OZ3DubRHSVo) 
+- Govind Persad, William F. Parker and Ezekiel J. Emanuel: [Taming the 4th COVID surge: Delay second shots and get first vaccine doses into arms](https://eu.usatoday.com/story/opinion/2021/04/08/covid-surge-deliver-first-vaccine-shots-delay-second-doses-column/7122747002/)
 - New York  Times [Ezra Klein on FDF and related topics](https://www.nytimes.com/2021/04/01/opinion/covid-vaccine.html)
 - [TheZvi](thezvi.wordpress.com): Weekly post (usually released on a Thursday) that summarizes the news from the last week and makes [solid predictions](https://thezvi.wordpress.com/2020/12/24/covid-12-24-were-fed-its-over/).
 - [Marginal Revolution](https://marginalrevolution.com/): Blog with many (!), mostly very short posts. A bit hard to get into at first but I know from personal experience that it's possible. It is written by Alex Tabarrok and Tyler Cowen.
   - [Citing Astra Zeneca CEO on FDF](https://marginalrevolution.com/marginalrevolution/2021/01/pascal-soriot-on-first-doses-first.html)
   - [The First Dose is Good](https://marginalrevolution.com/marginalrevolution/2021/02/first-doses-first-the-data-is-arriving.html)
   - [Highlights from comments of previous post](https://marginalrevolution.com/marginalrevolution/2021/02/from-the-comments-on-fdf.html)
+  - [The New Strain and the Need for Speed](https://marginalrevolution.com/marginalrevolution/2021/01/the-new-strain-and-the-need-for-speed.html)
   - [Citing Marty Makary, MD on need of AZ approval](https://marginalrevolution.com/marginalrevolution/2021/01/approve-the-astrazeneca-vaccine-now.html)
 - Vox [Why you can't compare vaccines based on trial data](https://www.youtube.com/watch?v=K3odScka55A)
 - UK Government: [Analysing effectiveness of first vaccine](https://publichealthmatters.blog.gov.uk/2021/02/23/covid-19-analysing-first-vaccine-effectiveness-in-the-uk/)
