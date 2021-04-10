@@ -42,6 +42,12 @@ No.
 
 (both on Joe Biden's [COVID Taskforce](https://www.beckershospitalreview.com/hospital-management-administration/meet-the-13-members-of-biden-s-covid-19-task-force.html))
 
+- Michael Lin, PhD-MD, Associate Professor at Stanford
+  - https://twitter.com/michaelzlin/status/1346536204825579520
+  - https://twitter.com/michaelzlin/status/1346548426427699201
+
+
+
 
 # Recommended Reading & Watching
 
@@ -61,8 +67,7 @@ I strongly recommend reading/watching these links. I ordered them from top to bo
 - Vox [Why you can't compare vaccines based on trial data](https://www.youtube.com/watch?v=K3odScka55A)
 - UK Government: [Analysing effectiveness of first vaccine](https://publichealthmatters.blog.gov.uk/2021/02/23/covid-19-analysing-first-vaccine-effectiveness-in-the-uk/)
     - [COVID-19 Dashboard](https://coronavirus.data.gov.uk/) (the trend is pretty impressive and one of the best arguments to switch to FDF).
-
-
+- Michael Lin, PhD-MD: [Twitter thread](https://twitter.com/michaelzlin/status/1346536200560025600) where he explains the same thing I did in [my post about 1D efficacy]({% post_url 2021-04-01-efficacy-1d-2d %}).
 
 # Extending this work, data & source code
 

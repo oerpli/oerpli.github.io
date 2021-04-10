@@ -25,7 +25,7 @@ If you have other reasons why FDF might be a bad idea, either contact me via [Tw
 
 # Wasn't tested that way
 This argument employs a classic method of bad argumentation.
-It invokes the spectre of "untested medication that could cripple newborns" while in reality "untested" only refers to "not following bureaucratic protocol to the T".
+It invokes the spectre of "untested medication that could cripple newborns" while in reality "untested" only refers to "not following protocol to the T" (where the protocol wasn't designed to optimize outcomes but to optimize speed of approval).
 
 I think not a single person that ever brought up this argument would bet a non-trivial amount of dollars that the following statements are both true:
 - Two doses of vaccination X are safe, if administered 3 weeks apart (or up to 5 weeks apart)
@@ -40,7 +40,9 @@ On the contrary, some studies have since been published that show better long te
 Immune escape happens if the virus evolves/mutates in a way that allows spread even in a vaccinated population. The theory is that partial immunity might be especially bad as the virus could reproduce in a host for several generations until the immune system doesn't recognize the virus anymore and the immunity (conferred by the vaccine) is rendered ineffective. 
 
 I am not aware of a serious analysis or model that evaluated the risk of immune escape.
-More often than not the theoretical possibility of immune escape is invoked without any cost/benefit analysis.
+More often than not the theoretical possibility of immune escape is invoked without any model or cost/benefit analysis[^1]
+
+
 Therefore, I just list some possible counterpoints and if anyone wants to make the case that the risk of immune escape is too high with a "First Doses First" approach, they should address at least some of these points, else I likely won't find it very convincing.
 
 - It's known that the immune system of old people is weaker than that of young people. If less than 100% protection is something VERY BAD THAT WE SHOULD BE WORRIED ABOUT, why do we vaccinate old people despite a higher chance that they (on average) will be only 92% or 93% immune and not 100%? There is no magical threshold just at the average immunity conferred by the 2nd dose of BNT162b2, else we would also ban less effective vaccinations (such as J&J, AZ)
@@ -82,3 +84,5 @@ Even in this extremely pessimistic & unrealistic scenario, a vaccination strateg
 
 
 Therefore, I would conclude that people talking about those two risks are mostly just parroting what other people were saying without having spent a few minutes seriously thinking about it as it doesn't hold up to  basic scrutiny. If anyone has counter arguments, feel free tell me on [twitter](https://twitter.com/oerpli) or wherever else you would prefer (contact information is available on the main page of this blog).
+
+[^1]: Michael Lin, PhD-MD (Associate Professor at Stanford) calls the higher chance of immune escape by a FDF vaccination program "Twitter Wisdom" and argues that it is not backed up by any data (with which I agree). The basic argument is that the overall time the virus has to mutate (average days per infection * people that are likely to be infected) is vastly higher when a two-dose vaccination strategy is used. [Twitter Thread](https://twitter.com/michaelzlin/status/1346548426427699201)
