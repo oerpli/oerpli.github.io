@@ -43,8 +43,9 @@ No.
 (both on Joe Biden's [COVID Taskforce](https://www.beckershospitalreview.com/hospital-management-administration/meet-the-13-members-of-biden-s-covid-19-task-force.html))
 
 - Michael Lin, PhD-MD, Associate Professor at Stanford
-  - https://twitter.com/michaelzlin/status/1346536204825579520
-  - https://twitter.com/michaelzlin/status/1346548426427699201
+  - [Why "low efficacy after the 1st dose" is a mistake in the trial design](https://twitter.com/michaelzlin/status/1346536204825579520) 
+  - [Why "immune escape from FDF" is an urban legend and wrong](https://twitter.com/michaelzlin/status/1346548426427699201)
+  - [How ill-suited regulations prevent helping (i.e. kill) thousands of patients](https://twitter.com/michaelzlin/status/1377462096959393797)
 
 
 
