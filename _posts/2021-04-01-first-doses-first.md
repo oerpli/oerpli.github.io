@@ -37,8 +37,8 @@ The basic argument boils down to this:
 
 # Is this some weird crank theory?
 No. 
-- Atul Gawande (MD, a surgeon at Boston-based Brigham and Women's Hospital and a professor at Harvard Medical School ):  https://twitter.com/Atul_Gawande/status/1377275975050924040?s=20
-- Ezekiel J. Emanuel (MD, PhD, chair of the department of medical ethics and health policy at the University of Pennsylvania in Philadelphia): https://eu.usatoday.com/story/opinion/2021/04/08/covid-surge-deliver-first-vaccine-shots-delay-second-doses-column/7122747002/
+- Ezekiel J. Emanuel (MD, PhD, chair of the department of medical ethics and health policy at the University of Pennsylvania in Philadelphia): [Op-Ed](https://eu.usatoday.com/story/opinion/2021/04/08/covid-surge-deliver-first-vaccine-shots-delay-second-doses-column/7122747002/)
+- Atul Gawande (MD, a surgeon at Boston-based Brigham and Women's Hospital and a professor at Harvard Medical School ): [Twitter Thread](https://twitter.com/Atul_Gawande/status/1377275975050924040?s=20)
 
 (both on Joe Biden's [COVID Taskforce](https://www.beckershospitalreview.com/hospital-management-administration/meet-the-13-members-of-biden-s-covid-19-task-force.html))
 
