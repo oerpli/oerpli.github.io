@@ -32,6 +32,8 @@ The basic argument boils down to this:
 - Calculations of impact, based on empircal data [WIP - all links below]
   - [Estimated immunity with FDF strategy]({% post_url 2021-04-03-estimated-immunity-at %})
     - [Post with figures for all federal states of Austria]({% post_url 2021-04-04-estimated-immunity-at-regions %})
+  - [Estimated immunity with FDF+FD strategy]({% post_url 2021-04-29-estimated-immunity-at-fd %})
+    - [Post with figures for all federal states of Austria]({% post_url 2021-04-29-estimated-immunity-at-regions-fd %})
 - [Reasons why FDF might be a bad idea]({% post_url 2021-04-03-fdf-counter-arguments %}) [Work in Progress - Feedback is greatly appreciated here]
 
 
