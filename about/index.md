@@ -20,7 +20,7 @@ I've finished my work there in Summer 2018 and presented the results from my the
 ### What did I do during my studies
 
 * **Publications**:
-	* 1st Thesis: Identified systemically risky companies using the DebtRank method (Battiston, 2012) ([MDPI, Open Access](https://www.mdpi.com/1099-4300/20/10/792)/[Preprint](https://arxiv.org/abs/1801.10487)).
+	* 1st Thesis: Identified systemically risky companies using the DebtRank method (Battiston, 2012) ([MDPI, Open Access](https://www.mdpi.com/1099-4300/20/10/792)/[Preprint](https://arxiv.org/abs/1801.10487)). While I admit that I mostly wrote the paper (except some minor editing) it was submitted by my supervisors at the [Complexity Science Hub](https://www.csh.ac.at/) despite me saying that it's garbage that shouldn't be published. I stand by that recommendation.
     * 2nd Thesis: Used a new method that incorporates information from currency forks to trace Monero transactions; evaluated effectiveness against previously published traceability heuristics ([Springer](https://link.springer.com/chapter/10.1007/978-3-030-32101-7_10)/[Preprint](https://arxiv.org/abs/1812.02808), [Source/Data/Results: GitHub/MONitERO](https://github.com/oerpli/MONitERO))
     * Journal Paper: Forensic analysis of Turkish elections in 2017–2018 [Plos ONE, Open Access](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204975). My contributions for this paper were rather marginal (data curation & software).
 
