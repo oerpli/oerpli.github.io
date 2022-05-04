@@ -40,7 +40,6 @@ I've finished my work there in Summer 2018 and presented the results from my the
 Most of my exercises are available [here](https://github.com/oerpli/exerCIses/) [^1].
 
 [^1]: Currently changed to private per request of a professor (similar exercises in winter term 2014 and 2015).
-{% endcomment %}
 
 # Things I do
 
@@ -57,6 +56,7 @@ I enjoy (in no particular/alphabetical order):
 * Dark Souls
 * Some "sports" ([Chess](http://de.lichess.org/@/oerpli), [Cycling](https://www.strava.com/athletes/12093854), [Sailing]({% post_url 2017-04-19-fb2-yachting-licence %}), Skiing)
 
+{% endcomment %}
 
 #### Theme
 This website is built with Jekyll. I use the Moon theme from Taylan Tatlı which can be found [here](https://github.com/TaylanTatli/Moon)
