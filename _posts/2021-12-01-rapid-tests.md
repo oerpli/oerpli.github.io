@@ -16,6 +16,7 @@ tag:
     - [Typischer Verlauf einer Infektion](#typischer-verlauf-einer-infektion)
     - [Vor und Nachteile PCR/LFT](#vor-und-nachteile-pcrlft)
   - [Wozu testen?](#wozu-testen)
+- [Additional reading](#additional-reading)
 
 # Sind PCR Tests wirklich sinnvoll?
 
@@ -80,4 +81,8 @@ Dafür kann es verschiedene Motivationen geben:
 Aus Public Health Perspektive ist aktuell ausschliesslich das letzte von Bedeutung.
 Je weniger ansteckende Personen mit ihren Mitmenschen interagieren, desto weniger Ansteckungen führen zu schweren Verläufen und Problemen im Gesundheitsapparat.
 
-Aus 
+
+
+
+# Additional reading
+https://www.nejm.org/doi/full/10.1056/NEJMc2102507?query=featured_home
