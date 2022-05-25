@@ -6,7 +6,9 @@ date: 2018-07-22
 comments: false
 feature: img/me.jpg
 ---
-I live in Feldkirch, Austria. I work as a Data Scientist at oerlikon Balzers in Liechtenstein. Feel free to contact me via [mail](mailto:oerpli@outlook.com) or [twitter](http://twitter.com/oerpli).
+I live in Buchs, SG and work as Softare Engineer (SRE) at Google in Zurich.
+Previously I lived in Feldkirch (AT) and worked as Data Scientist at oerlikon Balzers in Liechtenstein.
+Feel free to contact me via [mail](mailto:oerpli@outlook.com) or [twitter](http://twitter.com/oerpli).
 
 I use this site to (very rarely) write about things I do. 
 
